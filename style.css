@@ -63,7 +63,7 @@ header ul li
 {
 	height: 700px;
 	width: 100%;
-	background : url('slider.jpg');
+	background : url("slider.jpg");
 	background-size: 100% 100%;
 }
 
