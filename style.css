@@ -247,6 +247,10 @@ a.cta:hover:after
 	margin-top: 15px;
 	font-weight: bold;
 }
+.contact-info
+{
+	margin-bottom: 50px;
+}
 .contact-info .icon
 {
 	margin-right: 10px;
@@ -268,8 +272,8 @@ input,textarea
 	border:none;
 	border-bottom: 1px solid #333;
 	width:70%;
-	//margin:0 auto;
-	margin-left: 100px;
+	margin:0 auto;
+	//margin-left: 100px;
 	margin-bottom: 40px;
 	padding-left: 20px;
 
