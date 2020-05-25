@@ -10,7 +10,7 @@ jQuery(document).ready(function(){
 	});
 
 	var typed = new Typed('.text', {
-  strings: ['I am <strong class=primary>MANSI BHALOTIA</strong>.', 'This Is A Project On <strong class=secondary>Front-End Development</strong>.'],
+  strings: ['I am <strong class=primary>MANSI BHALOTIA</strong>.^1000', 'This Is A Project On <strong class=secondary>Front-End Development</strong>.^1000'],
   typespeed:0,
   loop:true
 	});
