@@ -12,6 +12,10 @@ header a
 {
 	color: #fff;
 }
+.margin
+{
+	margin-bottom:30px;
+}
 
 header a:hover
 {
